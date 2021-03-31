@@ -17,23 +17,20 @@ body{
        
    }
    .nav-item:hover{
-    background-color:#270803;
+    background-color:#800000;
     font-size: large;
     
 }
 .banner-container{
-    background-color:#CED4DA;
+    background-color:#D5DBDB
 }
 .banner-column{
-    background-color: #135160;
+    background-color: #800000;
     margin: auto;
 }
-.about-container{
-    background-color: rgb(178, 244, 247);
-    
-}
+
 .education-container{
-    background-color: cadetblue;
+    background-color:rgb(230, 217, 219);
 }
 .bg-redtype{
     background-color: cornsilk;
@@ -42,17 +39,19 @@ body{
     color: black;
 }
 .circle-edu{
-    background-color: darkgrey;
+    background-color: #1A5276;
     width: 150px;
     height: 150px;
     border-radius: 50%;
+    color:white;
 }
 .py-5{
 font-size: 20px;
 font-weight: bolder;
 }
 .project-container{
-    background-color: rgb(152, 131, 179);
+    background-color: white;
+    color:black;
 }
 .card img{
     height: 290px;
@@ -66,7 +65,8 @@ font-weight: bolder;
      text-align: center;
 }
 .curriculam{
-    font-weight: bold;
+    font-weight: bolder;
+    font-size: large;
     
 }
 .from-container{
@@ -100,4 +100,8 @@ font-weight: bolder;
 .img{
     width: 500px;
     height: 300px;
+}
+.card-body2{
+    background-color: #1A5276;
+    color: white;
 }
