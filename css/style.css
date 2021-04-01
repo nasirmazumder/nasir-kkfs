@@ -27,10 +27,15 @@ body{
 .banner-column{
     background-color: #800000;
     margin: auto;
+    
+    border-bottom-left-radius: 30px;
+    
+    border-top-right-radius: 30px;
+    
 }
 
 .education-container{
-    background-color:rgb(230, 217, 219);
+    background-color:rgb(247, 242, 243);
 }
 .bg-redtype{
     background-color: cornsilk;
@@ -104,4 +109,11 @@ font-weight: bolder;
 .card-body2{
     background-color: #1A5276;
     color: white;
+}
+.container-heading{
+    background-color: #800000;
+    color: white;
+    border-bottom-left-radius: 20px;
+    
+    border-top-right-radius: 20px;
 }
